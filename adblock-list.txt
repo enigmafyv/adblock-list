@@ -13,7 +13,6 @@
 !https://canyoublockit.com
 
 !!adbox.banner_ads.adsbox^important
-||adblock.turtlecute.org^$important
 ||d3ward.github.io^$important
 ||api.bugsnag.com^$important
 ||app.bugsnag.com^$important
